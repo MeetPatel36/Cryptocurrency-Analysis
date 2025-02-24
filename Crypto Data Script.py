@@ -44,5 +44,5 @@ def api_runner():
 for i in range(100):
     api_runner()
     print('API Runner Completed')
-    sleep(1800) #Sleep for 2 minute
+    sleep(1800) #Sleep for 30 minute
 exit()
