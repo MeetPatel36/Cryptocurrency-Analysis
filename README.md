@@ -1,6 +1,6 @@
 # Cryptocurrency Analysis
 
-![image](https://cdn.pixabay.com/photo/2018/05/04/22/45/image-3375234_1280.png)](https://cdn.pixabay.com/photo/2020/06/10/11/19/coin-5282271_1280.jpg)
+![image](https://cdn.pixabay.com/photo/2018/05/04/22/45/image-3375234_1280.png)
 
 ## Data Script:
 
