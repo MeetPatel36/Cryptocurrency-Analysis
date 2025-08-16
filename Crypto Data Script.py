@@ -16,7 +16,7 @@ def api_runner():
     }
     headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '676af9db-3b37-4a28-9b42-ff0ceba342f1',
+    'X-CMC_PRO_API_KEY': 'KEY',
     }
 
     session = Session()
@@ -46,3 +46,4 @@ for i in range(100):
     print('API Runner Completed')
     sleep(1800) #Sleep for 30 minute
 exit()
+
